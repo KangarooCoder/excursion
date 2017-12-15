@@ -4,8 +4,22 @@ body {
   text-align: center;
 }
 
+p {
+  text-align: center;
+}
+
 h1 {
   font-weight: normal;
   font-size: 50px;
   color: white;
+}
+
+.central h1 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.central p {
+  font-size: 21px;
+  color: gray;
 }
